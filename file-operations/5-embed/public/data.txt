@@ -1,0 +1,2 @@
+This text lives in public/data.txt and is compiled INTO the binary.
+You can delete this file after building and the program still prints it.
