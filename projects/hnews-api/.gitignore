@@ -1,0 +1,10 @@
+# Local environment
+.env
+
+# Build output
+/bin/
+/tmp/
+api
+
+# OS noise
+.DS_Store
